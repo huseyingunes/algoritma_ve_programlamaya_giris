@@ -1,0 +1,1 @@
+print("Merahaba Dünya!")

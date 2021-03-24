@@ -1,0 +1,2 @@
+print("Hüseyin")
+print("GÜNEŞ")
