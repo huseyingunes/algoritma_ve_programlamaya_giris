@@ -1,4 +1,6 @@
 # 8- Ekrana 1000 kere alt alta Çevre Mühendisliği yazdıran program
+print("Çevre Mühendisliği\n"*1000)
+'''
 print("Çevre Mühendisliği")
 print("Çevre Mühendisliği")
 print("Çevre Mühendisliği")
@@ -999,3 +1001,4 @@ print("Çevre Mühendisliği")
 print("Çevre Mühendisliği")
 print("Çevre Mühendisliği")
 print("Çevre Mühendisliği")
+'''
