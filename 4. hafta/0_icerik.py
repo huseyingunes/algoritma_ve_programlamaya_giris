@@ -10,7 +10,4 @@
 10- Boolean tipi
     karşılaştırmaları boolean a atama
 11-Operatörler
-12-Listeler
-13-Tuple
-14-Dictionaries
 '''
