@@ -24,4 +24,14 @@ O zaman 600851475143 sayısının en büyük asal çarpanı nedir?
 
 7- By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
 What is the 10001st prime number?
+
+8- Rastgele oluışturulan 10 tane sayıyı bir listeye atınız ve listeyi kendi yazdığınız algoritma ile
+küçükten büyüğe sıralayınız.
+
+9- 1’den 1000’e kadar olan çift tamsayıların toplamını hesaplayan algoritma
+
+10- İki dik kenarı girilen dik üçgenin hipotenüsünü hesaplayan algoritma
+
+11- Girilen pozitif bir tamsayının tam bölenlerini bulup ekrana yazdıran algoritma
+
 '''

@@ -6,7 +6,7 @@ import time
 baslangic_saati = time.time()
 for i in range(3, 1000000, 2):
     asal_mi = True
-    for s in range(3, round(math.sqrt(i))):
+    for s in range(3, round(math.sqrt(i))+1):
         if i % s == 0:
             asal_mi = False
             break
